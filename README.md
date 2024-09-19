@@ -23,3 +23,5 @@ dfmodif = df[,liste]
 dfmodif2 = df2[,liste]
 
 df_merged12 <- rbind(dfmodif, dfmodif2)
+
+EKIPPPPPPPPP
